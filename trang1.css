@@ -1,0 +1,122 @@
+*{
+    color: white;
+}
+
+body{
+    background: url(nen.jpg);
+    background-size: cover;
+    height: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+form{
+    margin-left: 80px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+.trangdau{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.league{
+    width: 300px;
+    height: 250px;
+}
+
+#lol{
+    width: 200px;
+}
+
+.blank {
+    flex: 1;
+}
+
+.distance{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 17px;
+    color: #42dac0;
+}
+
+.login{
+    padding: 10px 45px;
+    background: #66ffff;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0px 0px 40px 10px #12c4ff;
+    background-color: transparent;
+    color: #fff;
+    margin-right: 80px;
+}
+
+#icon{
+    width: 35px;
+    margin-bottom: 35px;
+    margin-right: 35px;
+}
+
+.ngang{
+    display: flex;
+    margin-top: 45px;
+}
+.bencanh{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    
+}
+
+#s1a{
+    font-size: 60px;
+}
+
+#s1b{
+    color: aqua;
+}
+
+#s2{
+    font-size: 30px;
+}
+
+#s3{
+    margin: -15px 0 -10px;
+}
+
+#s4{
+    margin-bottom: 50px;
+}
+
+#s5{
+    font-size: 27px;
+}
+
+#s6{
+    color: cyan;
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.trangcuoi{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.start{
+    padding: 12px 24px;
+    background: #66ffff;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0px 0px 40px 10px #12c4ff;
+    background-color: transparent;
+    color: #fff;
+    margin-right: 80px;
+}
